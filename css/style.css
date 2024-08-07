@@ -284,7 +284,12 @@ a:focus {
     background: #E81C2E;
     box-shadow: inset 200px 0 0 0 #E81C2E;
 }
-
+.nav-item h1 {
+    color: #fff;
+}
+.nav-bar .navbar-dark .navbar-nav .nav-link.active.tariff {
+    padding: 0;
+}
 @media (min-width: 992px) {
     .nav-bar .navbar-brand {
         display: none;
