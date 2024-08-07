@@ -1937,6 +1937,7 @@ a:focus {
     position: relative;
     margin-bottom: 45px;
     color: #ffffff;
+    text-align: center;
 }
 
 .footer .footer-contact h2,
