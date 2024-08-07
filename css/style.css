@@ -2062,3 +2062,15 @@ a:focus {
     width: 100%;
     z-index: 1;
 }
+.form-btn {
+    max-width: 400px;
+    margin: auto;
+}
+.success_message {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #0b9b20;
+    font-weight: 700;
+    height: 0;
+}
