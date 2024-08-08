@@ -290,6 +290,16 @@ a:focus {
 .nav-bar .navbar-dark .navbar-nav .nav-link.active.tariff {
     padding: 0;
 }
+.nav-logo {
+    font-size: 50px;
+    line-height: 50px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+h1.nav-logo span {
+    color: #E81C2E;
+}
 @media (min-width: 992px) {
     .nav-bar .navbar-brand {
         display: none;
