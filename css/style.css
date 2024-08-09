@@ -300,6 +300,9 @@ a:focus {
 h1.nav-logo span {
     color: #E81C2E;
 }
+.fs-24 {
+    font-size: 24px;
+}
 @media (min-width: 992px) {
     .nav-bar .navbar-brand {
         display: none;
